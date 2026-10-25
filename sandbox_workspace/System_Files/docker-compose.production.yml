@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  api:
+    image: sit-sentinel:latest
+    ports: ['8008:8008']

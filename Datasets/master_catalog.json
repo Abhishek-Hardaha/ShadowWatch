@@ -1,0 +1,9 @@
+{
+  "datasets_root": "A:\\Cursor\\Platoforms\\AUCML\\Datasets",
+  "real_dataset_folder": "A:\\Cursor\\Platoforms\\AUCML\\Datasets\\Real dataset",
+  "real_datasets_count": 15,
+  "real_total_samples": 8651,
+  "synthetic_datasets_count": 0,
+  "synthetic_total_samples": 0,
+  "dataset_source": "100% Authentic Open-Source Datasets (Hugging Face & SecLists / GitHub)"
+}

@@ -1,0 +1,25 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,geometry}
+\geometry{a4paper, margin=1in}
+\begin{document}
+\begin{center}
+\textbf{\Large SYMBIOSIS INSTITUTE OF TECHNOLOGY (SIT), PUNE}\\
+\textbf{\large Department of Computer Science & Engineering (AI & ML)}\\
+\textbf{End-Semester Examination - May 2026}\\
+\textbf{Course: CS701 Advanced Deep Learning & Neural Architectures}\\
+\textit{Time: 3 Hours \quad | \quad Maximum Marks: 60 \quad | \quad Classification: STRICTLY CONFIDENTIAL}
+\end{center}
+\hrule\vspace{0.4cm}
+\textbf{Instructions:} Answer any five full questions. Question 1 is compulsory.
+\begin{enumerate}
+\item \textbf{[12 Marks]} FlashAttention Derivation:
+  \begin{enumerate}
+  \item Prove the online softmax identity: Given vectors $x_1, x_2$, derive the continuous accumulation of maximum scaling factors $m_i$ and normalization denominator $l_i$.
+  \item Calculate SRAM memory bandwidth savings for block size $B_r = 64, B_c = 64$ on an NVIDIA H100 SXM5 GPU compared to standard quadratic attention.
+  \end{enumerate}
+\item \textbf{[12 Marks]} Rotary Position Embeddings (RoPE): Derive the 2D rotation matrix representation $\mathbf{R}_{\Theta, m}^d$ and prove that the inner product depends strictly on relative displacement $m - n$.
+\item \textbf{[12 Marks]} Direct Preference Optimization (DPO): Formulate the Bradley-Terry preference probability $P(y_1 \succ y_2 | x)$ and prove that the policy gradient objective eliminates the need for an explicit reward model.
+\item \textbf{[12 Marks]} Continuous-Time Diffusion SDEs: Contrast Variance Preserving (VP) against Variance Exploding (VE) SDEs. Write the reverse-time SDE formula given score function $\nabla_x \log p_t(x)$.
+\item \textbf{[12 Marks]} PagedAttention and vLLM: Diagram the virtual memory block allocation mapping table for fragmented KV caches during continuous batching.
+\end{enumerate}
+\end{document}

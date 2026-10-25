@@ -1,0 +1,121 @@
+{
+  "status": "TRAINED_WITH_EXPLICIT_SPLIT",
+  "training_timestamp": "2026-10-25T17:59:44.692674",
+  "training_method": "Stratified 80/20 Train/Test Split (Zero Data Leakage)",
+  "dataset_split": {
+    "total_samples": 8651,
+    "train_samples": 6920,
+    "train_ratio": 0.8,
+    "test_samples": 1731,
+    "synthetic_samples": 0,
+    "real_samples": 8651,
+    "dataset_sources": "100% Real Open-Source Datasets (Hugging Face & SecLists / PayloadsAllTheThings / Stanford)",
+    "train_benign": 4159,
+    "train_malicious": 2761,
+    "test_benign": 1040,
+    "test_malicious": 691,
+    "dataset_files_breakdown": {
+      "real_01_glaive_function_calling.jsonl": 600,
+      "real_02_deepset_prompt_injections.jsonl": 662,
+      "real_03_text_to_sql_reporting.jsonl": 600,
+      "real_04_sql_context_database.jsonl": 600,
+      "real_05_codefeedback_execution.jsonl": 600,
+      "real_06_chatgpt_jailbreak_overrides.jsonl": 389,
+      "real_07_codealpaca_scripting.jsonl": 600,
+      "real_08_python_instructions_pipeline.jsonl": 600,
+      "real_09_alpacagpt4_multi_step.jsonl": 600,
+      "real_10_alpaca_general_tasks.jsonl": 600,
+      "real_11_seclists_command_injections.jsonl": 600,
+      "real_12_seclists_lfi_path_traversal.jsonl": 600,
+      "real_13_seclists_sensitive_credential_probes.jsonl": 600,
+      "real_14_seclists_web_shell_backdoors.jsonl": 400,
+      "real_15_payloadsallthethings_privesc.jsonl": 600
+    }
+  },
+  "feature_names": [
+    "op_type_code",
+    "path_sensitivity",
+    "payload_size_log",
+    "burst_frequency",
+    "prompt_entropy",
+    "suspicious_token_count",
+    "is_destructive",
+    "path_depth"
+  ],
+  "feature_importances": {
+    "op_type_code": 0.0284,
+    "path_sensitivity": 0.289,
+    "payload_size_log": 0.1192,
+    "burst_frequency": 0.4126,
+    "prompt_entropy": 0.0162,
+    "suspicious_token_count": 0.0339,
+    "is_destructive": 0.0865,
+    "path_depth": 0.0141
+  },
+  "iso_calibration": {
+    "iso_p10": 0.392,
+    "iso_p90": 0.5253
+  },
+  "models": {
+    "decision_tree": {
+      "name": "Regularized Decision Tree (CART)",
+      "train_accuracy": 1.0,
+      "test_accuracy": 1.0,
+      "train_roc_auc": 1.0,
+      "test_roc_auc": 1.0,
+      "test_precision": 1.0,
+      "test_recall": 1.0,
+      "test_f1": 1.0,
+      "generalization_gap": 0.0,
+      "confusion_matrix_test": [
+        [
+          1040,
+          0
+        ],
+        [
+          0,
+          691
+        ]
+      ],
+      "role": "Interpretable Fast Rule-Based Classification"
+    },
+    "random_forest": {
+      "name": "Robust Random Forest Ensemble (150 Trees)",
+      "train_accuracy": 1.0,
+      "test_accuracy": 1.0,
+      "train_roc_auc": 1.0,
+      "test_roc_auc": 1.0,
+      "test_precision": 1.0,
+      "test_recall": 1.0,
+      "test_f1": 1.0,
+      "generalization_gap": 0.0,
+      "confusion_matrix_test": [
+        [
+          1040,
+          0
+        ],
+        [
+          0,
+          691
+        ]
+      ],
+      "role": "High-Precision Action Risk Probability"
+    },
+    "isolation_forest": {
+      "name": "Isolation Forest Anomaly Detector (200 Trees)",
+      "test_roc_auc": 0.9084,
+      "contamination": 0.22,
+      "confusion_matrix_test": [
+        [
+          991,
+          49
+        ],
+        [
+          374,
+          317
+        ]
+      ],
+      "role": "Zero-Day Behavioral Outlier & Frequency Spike Detector"
+    }
+  }
+}

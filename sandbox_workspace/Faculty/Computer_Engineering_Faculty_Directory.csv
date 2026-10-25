@@ -1,0 +1,51 @@
+Faculty_Name,Designation,Employee_ID,Official_Email,Specialization,H_Index,Total_Citations,Research_Laboratory_Affiliation
+Dr. Rajeshwar Iyer (Group 1),Associate Professor & HOD,EMP-CS-101-00,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 1),Professor & Dean (Research),EMP-CS-102-01,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 1),Professor & Exam Controller,EMP-CS-103-02,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 1),Associate Professor,EMP-CS-104-03,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 1),Assistant Professor,EMP-CS-105-04,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 1),Assistant Professor,EMP-CS-106-05,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 1),Associate Professor,EMP-CS-107-06,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 1),Assistant Professor,EMP-CS-108-07,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 2),Associate Professor & HOD,EMP-CS-101-08,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 2),Professor & Dean (Research),EMP-CS-102-09,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 2),Professor & Exam Controller,EMP-CS-103-10,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 2),Associate Professor,EMP-CS-104-11,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 2),Assistant Professor,EMP-CS-105-12,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 2),Assistant Professor,EMP-CS-106-13,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 2),Associate Professor,EMP-CS-107-14,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 2),Assistant Professor,EMP-CS-108-15,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 3),Associate Professor & HOD,EMP-CS-101-16,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 3),Professor & Dean (Research),EMP-CS-102-17,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 3),Professor & Exam Controller,EMP-CS-103-18,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 3),Associate Professor,EMP-CS-104-19,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 3),Assistant Professor,EMP-CS-105-20,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 3),Assistant Professor,EMP-CS-106-21,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 3),Associate Professor,EMP-CS-107-22,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 3),Assistant Professor,EMP-CS-108-23,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 4),Associate Professor & HOD,EMP-CS-101-24,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 4),Professor & Dean (Research),EMP-CS-102-25,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 4),Professor & Exam Controller,EMP-CS-103-26,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 4),Associate Professor,EMP-CS-104-27,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 4),Assistant Professor,EMP-CS-105-28,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 4),Assistant Professor,EMP-CS-106-29,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 4),Associate Professor,EMP-CS-107-30,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 4),Assistant Professor,EMP-CS-108-31,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 5),Associate Professor & HOD,EMP-CS-101-32,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 5),Professor & Dean (Research),EMP-CS-102-33,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 5),Professor & Exam Controller,EMP-CS-103-34,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 5),Associate Professor,EMP-CS-104-35,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 5),Assistant Professor,EMP-CS-105-36,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 5),Assistant Professor,EMP-CS-106-37,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 5),Associate Professor,EMP-CS-107-38,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 5),Assistant Professor,EMP-CS-108-39,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 6),Associate Professor & HOD,EMP-CS-101-40,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 6),Professor & Dean (Research),EMP-CS-102-41,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab
+Dr. Anand Deshmukh (Group 6),Professor & Exam Controller,EMP-CS-103-42,anand.deshmukh@sitpune.edu.in,Distributed Systems, Cloud,22,2,150,High Performance Computing Lab
+Dr. Meenakshi Sundaram (Group 6),Associate Professor,EMP-CS-104-43,meenakshi.s@sitpune.edu.in,Computer Vision, Medical Imaging,19,1,820,Biomedical Engineering Lab
+Dr. Vikramaditya Joshi (Group 6),Assistant Professor,EMP-CS-105-44,vikram.joshi@sitpune.edu.in,Cybersecurity, Cryptography,16,1,240,Cyber Warfare & CTF Lab
+Dr. Pallavi Sharma (Group 6),Assistant Professor,EMP-CS-106-45,pallavi.sharma@sitpune.edu.in,Natural Language Processing,15,980,Speech & Language Lab
+Dr. Sameer Patil (Group 6),Associate Professor,EMP-CS-107-46,sameer.patil@sitpune.edu.in,Big Data Analytics, Graph Neural Nets,21,2,430,Data Science Research Center
+Dr. Neha Bapat (Group 6),Assistant Professor,EMP-CS-108-47,neha.bapat@sitpune.edu.in,Quantum Computing, Quantum ML,12,640,Quantum Informatics Lab
+Dr. Rajeshwar Iyer (Group 7),Associate Professor & HOD,EMP-CS-101-48,rajeshwar.iyer@sitpune.edu.in,Deep Learning, LLM Alignment,28,3,410,AI & Vision Lab
+Dr. Sunita Kulkarni (Group 7),Professor & Dean (Research),EMP-CS-102-49,sunita.kulkarni@sitpune.edu.in,Reinforcement Learning, Robotics,34,5,890,Autonomous Systems Lab

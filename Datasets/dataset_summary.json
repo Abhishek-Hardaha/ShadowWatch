@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-10-25T12:27:24Z",
+  "total_datasets": 15,
+  "total_samples": 8651,
+  "synthetic_datasets": 0,
+  "synthetic_samples": 0,
+  "source_distribution": "100% Real Open-Source Datasets (Hugging Face & SecLists / GitHub)",
+  "datasets": [
+    {
+      "id": "real_01",
+      "name": "glaive_function_calling",
+      "source": "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
+      "type": "Benign Agentic Tool Calling",
+      "samples": 600,
+      "file": "real_01_glaive_function_calling.jsonl"
+    },
+    {
+      "id": "real_02",
+      "name": "deepset_prompt_injections",
+      "source": "https://huggingface.co/datasets/deepset/prompt-injections",
+      "type": "Real Adversarial Injections",
+      "samples": 662,
+      "file": "real_02_deepset_prompt_injections.jsonl"
+    },
+    {
+      "id": "real_03",
+      "name": "text_to_sql_reporting",
+      "source": "https://huggingface.co/datasets/Clinton/Text-to-sql-v1",
+      "type": "Benign SQL Reporting",
+      "samples": 600,
+      "file": "real_03_text_to_sql_reporting.jsonl"
+    },
+    {
+      "id": "real_04",
+      "name": "sql_context_database",
+      "source": "https://huggingface.co/datasets/b-mc2/sql-create-context",
+      "type": "Benign Database Operations",
+      "samples": 600,
+      "file": "real_04_sql_context_database.jsonl"
+    },
+    {
+      "id": "real_05",
+      "name": "codefeedback_execution",
+      "source": "https://huggingface.co/datasets/m-a-p/CodeFeedback-Filtered-Instruction",
+      "type": "Benign Code Execution",
+      "samples": 600,
+      "file": "real_05_codefeedback_execution.jsonl"
+    },
+    {
+      "id": "real_06",
+      "name": "chatgpt_jailbreak_overrides",
+      "source": "https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts & jackhhao/jailbreak-classification",
+      "type": "Malicious Jailbreak Overrides",
+      "samples": 389,
+      "file": "real_06_chatgpt_jailbreak_overrides.jsonl"
+    },
+    {
+      "id": "real_07",
+      "name": "codealpaca_scripting",
+      "source": "https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k",
+      "type": "Benign Scripting Instructions",
+      "samples": 600,
+      "file": "real_07_codealpaca_scripting.jsonl"
+    },
+    {
+      "id": "real_08",
+      "name": "python_instructions_pipeline",
+      "source": "https://github.com/sahil280114/codealpaca",
+      "type": "Benign Python Tasks",
+      "samples": 600,
+      "file": "real_08_python_instructions_pipeline.jsonl"
+    },
+    {
+      "id": "real_09",
+      "name": "alpacagpt4_multi_step",
+      "source": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+      "type": "Benign Multi-Step Planning",
+      "samples": 600,
+      "file": "real_09_alpacagpt4_multi_step.jsonl"
+    },
+    {
+      "id": "real_10",
+      "name": "alpaca_general_tasks",
+      "source": "https://github.com/tatsu-lab/stanford_alpaca",
+      "type": "Benign Academic Tasks",
+      "samples": 600,
+      "file": "real_10_alpaca_general_tasks.jsonl"
+    },
+    {
+      "id": "real_11",
+      "name": "seclists_command_injections",
+      "source": "https://github.com/danielmiessler/SecLists",
+      "type": "Malicious Command Injections",
+      "samples": 600,
+      "file": "real_11_seclists_command_injections.jsonl"
+    },
+    {
+      "id": "real_12",
+      "name": "seclists_lfi_path_traversal",
+      "source": "https://github.com/danielmiessler/SecLists",
+      "type": "Malicious LFI & Path Traversal",
+      "samples": 600,
+      "file": "real_12_seclists_lfi_path_traversal.jsonl"
+    },
+    {
+      "id": "real_13",
+      "name": "seclists_sensitive_credential_probes",
+      "source": "https://github.com/danielmiessler/SecLists",
+      "type": "Malicious Credential Probes",
+      "samples": 600,
+      "file": "real_13_seclists_sensitive_credential_probes.jsonl"
+    },
+    {
+      "id": "real_14",
+      "name": "seclists_web_shell_backdoors",
+      "source": "https://github.com/danielmiessler/SecLists",
+      "type": "Malicious Web Shell Backdoors",
+      "samples": 400,
+      "file": "real_14_seclists_web_shell_backdoors.jsonl"
+    },
+    {
+      "id": "real_15",
+      "name": "payloadsallthethings_privesc",
+      "source": "https://github.com/danielmiessler/SecLists & PayloadsAllTheThings",
+      "type": "Privilege Escalation & SQLi Benchmark",
+      "samples": 600,
+      "file": "real_15_payloadsallthethings_privesc.jsonl"
+    }
+  ]
+}

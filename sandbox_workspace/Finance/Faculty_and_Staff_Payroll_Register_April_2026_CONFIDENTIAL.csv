@@ -1,0 +1,61 @@
+Emp_ID,Staff_Name,Designation,Department,Basic_Pay_INR,DA_INR,HRA_INR,Special_Allowance_INR,PF_Deduction_INR,TDS_Tax_INR,Net_Salary_INR,Bank_Account_Masked
+EMP-SIT-101,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX10
+EMP-SIT-102,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX11
+EMP-SIT-103,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX12
+EMP-SIT-104,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX13
+EMP-SIT-105,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX14
+EMP-SIT-106,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX15
+EMP-SIT-107,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX16
+EMP-SIT-108,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX17
+EMP-SIT-109,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX18
+EMP-SIT-110,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX19
+EMP-SIT-111,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX20
+EMP-SIT-112,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX21
+EMP-SIT-113,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX22
+EMP-SIT-114,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX23
+EMP-SIT-115,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX24
+EMP-SIT-116,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX25
+EMP-SIT-117,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX26
+EMP-SIT-118,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX27
+EMP-SIT-119,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX28
+EMP-SIT-120,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX29
+EMP-SIT-121,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX30
+EMP-SIT-122,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX31
+EMP-SIT-123,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX32
+EMP-SIT-124,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX33
+EMP-SIT-125,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX34
+EMP-SIT-126,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX35
+EMP-SIT-127,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX36
+EMP-SIT-128,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX37
+EMP-SIT-129,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX38
+EMP-SIT-130,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX39
+EMP-SIT-131,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX40
+EMP-SIT-132,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX41
+EMP-SIT-133,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX42
+EMP-SIT-134,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX43
+EMP-SIT-135,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX44
+EMP-SIT-136,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX45
+EMP-SIT-137,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX46
+EMP-SIT-138,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX47
+EMP-SIT-139,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX48
+EMP-SIT-140,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX49
+EMP-SIT-141,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX50
+EMP-SIT-142,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX51
+EMP-SIT-143,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX52
+EMP-SIT-144,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX53
+EMP-SIT-145,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX54
+EMP-SIT-146,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX55
+EMP-SIT-147,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX56
+EMP-SIT-148,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX57
+EMP-SIT-149,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX58
+EMP-SIT-150,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX59
+EMP-SIT-151,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX60
+EMP-SIT-152,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX61
+EMP-SIT-153,Dr. Vikramaditya Joshi,Assistant Professor,Cybersecurity, Cryptography,₹160,000,₹80,000,₹38,400,₹15,000,₹19,200,₹52,812,₹221,388,SBIN0004928-XXXX62
+EMP-SIT-154,Dr. Pallavi Sharma,Assistant Professor,Natural Language Processing,₹170,000,₹85,000,₹40,800,₹15,000,₹20,400,₹55,944,₹234,456,SBIN0004928-XXXX63
+EMP-SIT-155,Dr. Sameer Patil,Associate Professor,Big Data Analytics, Graph Neural Nets,₹180,000,₹90,000,₹43,200,₹15,000,₹21,600,₹59,076,₹247,524,SBIN0004928-XXXX64
+EMP-SIT-156,Dr. Neha Bapat,Assistant Professor,Quantum Computing, Quantum ML,₹190,000,₹95,000,₹45,600,₹15,000,₹22,800,₹62,208,₹260,592,SBIN0004928-XXXX65
+EMP-SIT-157,Dr. Rajeshwar Iyer,Associate Professor & HOD,Deep Learning, LLM Alignment,₹120,000,₹60,000,₹28,800,₹15,000,₹14,400,₹40,284,₹169,116,SBIN0004928-XXXX66
+EMP-SIT-158,Dr. Sunita Kulkarni,Professor & Dean (Research),Reinforcement Learning, Robotics,₹130,000,₹65,000,₹31,200,₹15,000,₹15,600,₹43,416,₹182,184,SBIN0004928-XXXX67
+EMP-SIT-159,Dr. Anand Deshmukh,Professor & Exam Controller,Distributed Systems, Cloud,₹140,000,₹70,000,₹33,600,₹15,000,₹16,800,₹46,548,₹195,252,SBIN0004928-XXXX68
+EMP-SIT-160,Dr. Meenakshi Sundaram,Associate Professor,Computer Vision, Medical Imaging,₹150,000,₹75,000,₹36,000,₹15,000,₹18,000,₹49,680,₹208,320,SBIN0004928-XXXX69

@@ -1,0 +1,13 @@
+{
+  "institution": "Symbiosis Institute of Technology, Pune",
+  "academic_year": "2025-2026",
+  "undergraduate_btech": {
+    "tuition_fee_inr": 340000,
+    "institute_deposit_refundable_inr": 20000,
+    "hostel_accommodation": {
+      "double_occupancy_ac_inr": 165000,
+      "triple_occupancy_non_ac_inr": 115000,
+      "mess_charges_annual_inr": 88000
+    }
+  }
+}

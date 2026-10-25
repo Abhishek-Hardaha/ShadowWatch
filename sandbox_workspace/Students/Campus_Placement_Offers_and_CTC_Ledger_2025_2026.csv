@@ -1,0 +1,86 @@
+Offer_ID,PRN,Student_Name,Company_Name,Job_Title,Offered_CTC_INR,Placement_Tier,Interview_Rounds_Cleared,Joining_Location
+OFFER-2026-001,22070123001,Aarav Roy,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-002,22070123002,Aditi Sen,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-003,22070123003,Akash Kulkarni,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-004,22070123004,Ananya Gupta,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-005,22070123005,Aniket Rao,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-006,22070123006,Devendra Pandey,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Pune
+OFFER-2026-007,22070123007,Ishita Banerjee,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-008,22070123008,Karan Kapoor,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-009,22070123009,Meera Chauhan,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Pune
+OFFER-2026-010,22070123010,Nikhil Kale,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-011,22070123011,Pooja Mukherjee,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-012,22070123012,Pranav Prasad,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-013,22070123013,Priya Thakur,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-014,22070123014,Rahul Wagh,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-015,22070123015,Riya Dubey,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Bangalore
+OFFER-2026-016,22070123016,Rohan Sharma,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Pune
+OFFER-2026-017,22070123017,Sakshi Roy,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Pune
+OFFER-2026-018,22070123018,Sameer Sen,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Mumbai
+OFFER-2026-019,22070123019,Siddharth Kulkarni,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-020,22070123020,Sneha Gupta,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-021,22070123021,Tanvi Rao,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-022,22070123022,Varun Pandey,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-023,22070123023,Vikram Banerjee,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-024,22070123024,Yash Kapoor,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-025,22070123025,Aditya Chauhan,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Bangalore
+OFFER-2026-026,22070123026,Amrita Kale,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Pune
+OFFER-2026-027,22070123027,Aryan Mukherjee,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Gurgaon
+OFFER-2026-028,22070123028,Bhavna Prasad,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-029,22070123029,Chirag Thakur,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-030,22070123030,Deepika Wagh,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-031,22070123031,Gaurav Dubey,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-032,22070123032,Harsh Sharma,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-033,22070123033,Isha Roy,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Pune
+OFFER-2026-034,22070123034,Jatin Sen,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Bangalore
+OFFER-2026-035,22070123035,Kavita Kulkarni,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Pune
+OFFER-2026-036,22070123036,Manish Gupta,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Pune
+OFFER-2026-037,22070123037,Neha Rao,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-038,22070123038,Omkar Pandey,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-039,22070123039,Payal Banerjee,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-040,22070123040,Rajesh Kapoor,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-041,22070123041,Shruti Chauhan,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-042,22070123042,Suresh Kale,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-043,22070123043,Tanya Mukherjee,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-044,22070123044,Utkarsh Prasad,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Hyderabad
+OFFER-2026-045,22070123045,Vaishnavi Thakur,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Bangalore
+OFFER-2026-046,22070123046,Vivek Wagh,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-047,22070123047,Zoya Dubey,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-048,22070123048,Arjun Sharma,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-049,22070123049,Kavya Roy,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-050,22070123050,Mohit Sen,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-051,22070123051,Nandini Kulkarni,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-052,22070123052,Parth Gupta,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Hyderabad
+OFFER-2026-053,22070123053,Rachit Rao,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-054,22070123054,Shreya Pandey,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Hyderabad
+OFFER-2026-055,22070123055,Tarun Banerjee,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-056,22070123056,Vipul Kapoor,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-057,22070123057,Abhay Chauhan,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-058,22070123058,Alok Kale,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-059,22070123059,Anushka Mukherjee,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-060,22070123060,Ayush Prasad,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-061,22070123061,Brijesh Thakur,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Mumbai
+OFFER-2026-062,22070123062,Charu Wagh,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-063,22070123063,Dhruv Dubey,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Bangalore
+OFFER-2026-064,22070123064,Divya Sharma,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-065,22070123065,Esha Roy,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-066,22070123066,Girish Sen,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-067,22070123067,Himanshu Kulkarni,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-068,22070123068,Irfan Gupta,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-069,22070123069,Jasleen Rao,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-070,22070123070,Kartik Pandey,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Gurgaon
+OFFER-2026-071,22070123071,Lavanya Banerjee,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Pune
+OFFER-2026-072,22070123072,Madhav Kapoor,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Pune
+OFFER-2026-073,22070123073,Aarav Chauhan,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-074,22070123074,Aditi Kale,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-075,22070123075,Akash Mukherjee,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Gurgaon
+OFFER-2026-076,22070123076,Ananya Prasad,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Pune
+OFFER-2026-077,22070123077,Aniket Thakur,Goldman Sachs,Quantitative Technology Strategist,28.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-078,22070123078,Devendra Wagh,Morgan Stanley,Algorithm Engineer,25.0 LPA,Tier-1 Core,5 Rounds Cleared,Pune
+OFFER-2026-079,22070123079,Ishita Dubey,Qualcomm,Embedded AI Firmware Engineer,22.5 LPA,Tier-1 Core,5 Rounds Cleared,Bangalore
+OFFER-2026-080,22070123080,Karan Sharma,Siemens Digital Industries,Industrial Automation Engineer,18.0 LPA,Tier-2 Core,5 Rounds Cleared,Pune
+OFFER-2026-081,22070123081,Meera Roy,TCS Research,Research Scientist - NLP,14.5 LPA,Tier-2 Regular,5 Rounds Cleared,Mumbai
+OFFER-2026-082,22070123082,Nikhil Sen,Google DeepMind,Software Engineer - AI Systems,42.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
+OFFER-2026-083,22070123083,Pooja Kulkarni,Microsoft India,Software Development Engineer II,38.5 LPA,Tier-1 Dream,5 Rounds Cleared,Hyderabad
+OFFER-2026-084,22070123084,Pranav Gupta,Amazon AWS,Cloud Solutions Architect,34.0 LPA,Tier-1 Dream,5 Rounds Cleared,Mumbai
+OFFER-2026-085,22070123085,Priya Rao,NVIDIA,CUDA Kernel Optimization Engineer,36.0 LPA,Tier-1 Dream,5 Rounds Cleared,Bangalore
