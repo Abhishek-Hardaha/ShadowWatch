@@ -206,7 +206,7 @@ export default function EndpointModal({
                   ENDPOINT NOT CONNECTED · ACTION REQUIRED
                 </div>
                 <div style={{ color: '#94a3b8', fontSize: '0.8rem', marginTop: '4px', lineHeight: '1.45' }}>
-                  Paste the public tunnel URL provided by your running inference server to connect Vigil-AI.
+                  Paste the public tunnel URL provided by your running inference server to connect SIT Workspace Agent.
                 </div>
               </div>
             </div>

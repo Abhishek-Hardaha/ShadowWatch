@@ -32,8 +32,8 @@ except ImportError:
 from ml_engine.feature_extractor import MLAnomalyDetector
 
 app = FastAPI(
-    title="SIT Pune Sentinel Guard - AI Agent Monitoring Showcase",
-    description="Interactive Cybersecurity Showcase with ML Anomaly Detection and Independent LLM Supervisor"
+    title="SIT Workspace Agent - AI Monitoring & Security Platform",
+    description="Interactive Cybersecurity Platform with ML Anomaly Detection and Independent LLM Supervisor"
 )
 
 app.add_middleware(
@@ -57,7 +57,7 @@ async def health_check():
     llm_health = await llm_client.check_health()
     return {
         "status": "online",
-        "system": "Symbiosis Institute of Technology Cybersecurity Sentinel",
+        "system": "SIT Workspace Agent",
         "llm_endpoint": llm_health,
         "workspace_path": workspace_mgr.workspace_dir,
         "files_count": len(workspace_mgr.list_files())

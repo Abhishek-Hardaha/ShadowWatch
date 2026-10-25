@@ -12,6 +12,8 @@ export interface ActionRecord {
   dtScore: number;   // 0.0 - 1.0
   tool: string;      // "read_file" | "list_directory" | "sql_query" | "write_file" | "delete_file" | "other"
   target?: string;
+  verdict?: string;
+  threatLevel?: string;
 }
 
 interface MLWatchDashboardProps {
