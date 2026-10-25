@@ -32,7 +32,7 @@ except ImportError:
 from ml_engine.feature_extractor import MLAnomalyDetector
 
 app = FastAPI(
-    title="SIT Workspace Agent - AI Monitoring & Security Platform",
+    title="ShadowTrace - Autonomous Agent Surveillance & Anomaly Sentinel",
     description="Interactive Cybersecurity Platform with ML Anomaly Detection and Independent LLM Supervisor"
 )
 
@@ -57,7 +57,7 @@ async def health_check():
     llm_health = await llm_client.check_health()
     return {
         "status": "online",
-        "system": "SIT Workspace Agent",
+        "system": "ShadowTrace",
         "llm_endpoint": llm_health,
         "workspace_path": workspace_mgr.workspace_dir,
         "files_count": len(workspace_mgr.list_files())

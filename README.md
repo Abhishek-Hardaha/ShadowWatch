@@ -1,5 +1,5 @@
-# 🛡️ SIT Workspace Agent
-### Autonomous Academic Multi-Agent Surveillance & ML Anomaly Sentinel
+# 🛡️ ShadowTrace
+### Autonomous Agent Surveillance & ML Anomaly Sentinel
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -7,7 +7,7 @@
 [![PyTorch / Qwen2.5](https://img.shields.io/badge/LLM-Qwen2.5--14B--Instruct-blueviolet)](https://huggingface.co/Qwen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **SIT Workspace Agent** is a dual-checkpoint multi-agent security and intelligence platform built for institutional and academic environments (demonstrated on Symbiosis Institute of Technology, SIT Pune). It provides real-time interception against pretexting, multi-turn prompt injection, data exfiltration, and unauthorized privilege escalation.
+> **ShadowTrace** is a dual-checkpoint multi-agent security and intelligence platform built for institutional and academic environments (demonstrated on Symbiosis Institute of Technology, SIT Pune). It provides real-time interception against pretexting, multi-turn prompt injection, data exfiltration, and unauthorized privilege escalation.
 
 ---
 

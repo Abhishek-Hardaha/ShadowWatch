@@ -53,7 +53,7 @@ export default function Header({
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
             <h1 style={{ fontSize: '1.25rem', fontWeight: 800, letterSpacing: '-0.02em', color: '#f8fafc' }}>
-              SIT WORKSPACE AGENT
+              SHADOWTRACE
             </h1>
             <span className="badge-tag" style={{
               background: 'rgba(255, 255, 255, 0.05)',
@@ -64,7 +64,7 @@ export default function Header({
             </span>
           </div>
           <p style={{ fontSize: '0.8rem', color: '#94a3b8' }}>
-            Autonomous Academic Multi-Agent Platform • Dual Checkpoint Supervision
+            Autonomous Agent Surveillance & Threat Interception • Dual Checkpoint Supervision
           </p>
         </div>
       </div>

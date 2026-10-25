@@ -25,7 +25,7 @@ export default function NotFound() {
         <h1 style={{ fontSize: '3rem', fontWeight: 900, color: '#f43f5e', margin: '0 0 10px' }}>404</h1>
         <h2 style={{ fontSize: '1.25rem', fontWeight: 700, margin: '0 0 12px' }}>Page Not Found</h2>
         <p style={{ fontSize: '0.86rem', color: '#94a3b8', lineHeight: '1.5', margin: '0 0 24px' }}>
-          The requested path is not accessible within the SIT Workspace Agent environment.
+          The requested path is not accessible within the ShadowTrace environment.
         </p>
         <Link
           href="/"
